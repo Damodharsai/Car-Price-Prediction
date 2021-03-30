@@ -19,6 +19,8 @@ If you want to view the deployed model, click on the following link:<br />
 A glimpse of the web app:
 
 ![image](https://user-images.githubusercontent.com/78199382/112995091-8487bc80-9188-11eb-946e-29c7dae6fbc8.png)
+![image](https://user-images.githubusercontent.com/78199382/112995631-0d9ef380-9189-11eb-8126-531b75b40ccf.png)
+
 
 ## About the App
 The Car Price Prediction is a flask web application which predicts car prices based on given independent features like Car_Name,	Year,	Selling_Price,	Present_Price,	Kms_Driven,	Fuel_Type,	Seller_Type,	Transmission, and Owner. The dataset is available at Kaggle, and it's provided by cardekho.com. 
